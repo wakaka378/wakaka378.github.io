@@ -1,16 +1,17 @@
-new: HEXO DEPLOY
+name: HEXO DEPLOY
 
 on:
+  workflow_dispatch:
   push:
-    branch
+    branches:
     - blog
 
 jobs:
   publish:
     runs-on: ubuntu-last
     strategy:
-    matrix:
-      node-version: [14.x]
+      matrix:
+        node-version: [14.x]
 
     steps:
       - uses: actions/checkout@v1
