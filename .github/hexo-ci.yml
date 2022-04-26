@@ -8,7 +8,7 @@ on:
 
 jobs:
   publish:
-    runs-on: ubuntu-last
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [14.x]
@@ -29,14 +29,18 @@ jobs:
           echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           echo "私钥配置完成....."
-          ssh-keygen github.com >> ~/.ssh/known_hosts
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --local user.name "wakaka378"
           git config --local user.email "wakaka"
-      
+          echo "git 配置完成....."
       - name: Install dependencies
         run: |
-          npm i -g hexo-cli
+          npm i hexo-cli
+          echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
           npm i
       - name: Deploy hexo
         run: |
-          hexo clean && hexo g && hexo deploy
+          npx hexo version &&
+          npx hexo clean &&
+          npx hexo generate &&
+          npx hexo deploy
