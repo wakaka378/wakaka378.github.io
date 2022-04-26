@@ -3,7 +3,7 @@ name: HEXO DEPLOY
 on:
   workflow_dispatch:
   push:
-    branches: [ master ]
+    branches: [ blog ]
 
 jobs:
   publish:
