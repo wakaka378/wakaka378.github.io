@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://wakaka378.github.io/2023-04-09-hello-world.html</loc>
-    
-    <lastmod>2023-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wakaka378.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-09</lastmod>
@@ -110,6 +101,20 @@
 
   
   <url>
+    <loc>https://wakaka378.github.io/tags/Vue/</loc>
+    <lastmod>2023-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wakaka378.github.io/tags/socket-io/</loc>
+    <lastmod>2023-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wakaka378.github.io/tags/js/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -125,20 +130,6 @@
   
   <url>
     <loc>https://wakaka378.github.io/tags/%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96/</loc>
-    <lastmod>2023-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wakaka378.github.io/tags/Vue/</loc>
-    <lastmod>2023-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wakaka378.github.io/tags/socket-io/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,14 +152,14 @@
 
   
   <url>
-    <loc>https://wakaka378.github.io/categories/js/</loc>
+    <loc>https://wakaka378.github.io/categories/Vue/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wakaka378.github.io/categories/Vue/</loc>
+    <loc>https://wakaka378.github.io/categories/js/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
