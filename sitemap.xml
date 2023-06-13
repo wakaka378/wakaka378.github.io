@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wakaka378.github.io/40c1ac53cd37.html</loc>
+    
+    <lastmod>2023-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wakaka378.github.io/f200b9759d01.html</loc>
     
     <lastmod>2023-06-13</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://wakaka378.github.io/b1ab80e28404.html</loc>
     
     <lastmod>2023-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wakaka378.github.io/40c1ac53cd37.html</loc>
-    
-    <lastmod>2023-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -115,6 +115,20 @@
   </url>
   
   <url>
+    <loc>https://wakaka378.github.io/tags/npm/</loc>
+    <lastmod>2023-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wakaka378.github.io/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/</loc>
+    <lastmod>2023-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wakaka378.github.io/tags/js/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,20 +149,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://wakaka378.github.io/tags/npm/</loc>
-    <lastmod>2023-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wakaka378.github.io/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/</loc>
-    <lastmod>2023-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -159,14 +159,14 @@
   </url>
   
   <url>
-    <loc>https://wakaka378.github.io/categories/js/</loc>
+    <loc>https://wakaka378.github.io/categories/Git/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wakaka378.github.io/categories/Git/</loc>
+    <loc>https://wakaka378.github.io/categories/js/</loc>
     <lastmod>2023-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
